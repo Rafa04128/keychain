@@ -1,0 +1,63 @@
+Actualmente el archivo que funciona es fullscript.py 
+
+El proposito de KeyChain es un software que encrypte informacion de contraseñas o datos en general. 
+
+Main.py se pondra en accion una vez el projecto tenga el tamaño requerido.
+
+Instalar dependencias.
+
+No olvidar instalar el SQlite to the System Path. 
+Buscando un tutorial en internet se resuelve. 
+
+Esta version del codigo es la 1.
+
+bard.py 
+Es un ejemplo siguiendo la guia de bard en el codigo.
+
+Fullscript.py 
+Es donde se trabaja todo, lo que funciona se va a rescribir de una manera mas ordenada.
+
+Test.ipynb
+Donde testeamos codigo individual en caso de necesitarlo
+
+password.py 
+mas adelante se llamara diferente pero es donde se manejara la logistica de encrypcion de la data. 
+Codificador y decodificador. 
+
+Librerias usadas. 
+Tkinter = Ultima version
+Sqlite3 = Ultima version
+Datetime = ultima version 
+Bcrypt = ultima version # hashlib murio
+
+No olvidar actualizar este numero para administrar el github. 
+
+V1
+#Esto indica la version en la que se encuentra el software por el momento.
+W
+#Esto indica en el equipo en el cual se subio o genero el Commit.
+
+Resumen. 
+
+Por el momento todo lo que hace es ser un medio visual para iniciar sesion. 
+almacenar y verificar la clave contra una base de datos. 
+
+Siguiente paso creo que seria trabajar en el menu de inico una vez se inicia sesion.
+Por el momento quiero hacer un sistema que almacene contraseñas o datos importantes de manera segura.
+
+La contraseña como tal debe estar encriptada hasta que ingrese mi codigo, y se pueden encontrar con palabras claves.
+
+Generador de contraseñas.
+
+Generar contraseñas con un grado de dificultad bastante alto y que la almacene.
+
+Search Engine.
+La habilidad de almacenar cosas en masa y poder buscarlas con un buscador.
+util para guardar papeles cientificos, pdfs, libros, imagenes, de todo. 
+Ojala encriptado, codificar a numeros y despues decodificar para usar. 
+Interesante. 
+
+Mas funcionalidades pronto a venir. 
+
+
+
